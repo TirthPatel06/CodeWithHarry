@@ -1,2 +1,2 @@
 # CodeWithHarry
- A Complete Responsive Website Tutorial ByCodeWithHarry
+ A Complete and Great Responsive Website Tutorial By CodeWithHarry.
